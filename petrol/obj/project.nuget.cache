@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bZhn6lI0SNM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\petrol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tilen\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

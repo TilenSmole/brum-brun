@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Brum, brum!</h1>
+    <span class="car-animation">🚗</span>
+
+    <label for="consumption">Poraba l/km:</label>
+    <input type="text" id="consumption" name="consumption" value="7,7"><br><br>
+
+    <label for="distance">Prevoženih km:</label>
+    <input type="text" id="distance" name="distance"><br><br>
+
+    <label for="gasPrice">Cena bencina na liter:</label>
+    <input type="text" id="gasPrice" name="gasPrice" value="@Model.GasPrice">
+
+    <p id="totalCost">Cena potovanja v €:</p>
+    <p id="cost"></p>
+
+</div>
+

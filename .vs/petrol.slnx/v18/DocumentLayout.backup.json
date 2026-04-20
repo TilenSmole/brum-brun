@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tilen\\source\\repos\\petrol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|c:\\users\\tilen\\source\\repos\\petrol\\petrol\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|solutionrelative:petrol\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|c:\\users\\tilen\\source\\repos\\petrol\\petrol\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|solutionrelative:petrol\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|c:\\users\\tilen\\source\\repos\\petrol\\petrol\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|solutionrelative:petrol\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|c:\\users\\tilen\\source\\repos\\petrol\\petrol\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|solutionrelative:petrol\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|c:\\users\\tilen\\source\\repos\\petrol\\petrol\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|solutionrelative:petrol\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|c:\\users\\tilen\\source\\repos\\petrol\\petrol\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAEFD646-E57A-E7E5-17BB-91D9D44FF7D6}|petrol\\petrol.csproj|solutionrelative:petrol\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 292,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "petrol\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "petrol\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-16T17:36:58.421Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\Dockerfile",
+              "RelativeDocumentMoniker": "petrol\\Dockerfile",
+              "ToolTip": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\Dockerfile*",
+              "RelativeToolTip": "petrol\\Dockerfile*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-20T12:53:16.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\.gitignore",
+              "RelativeDocumentMoniker": "petrol\\.gitignore",
+              "ToolTip": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\.gitignore",
+              "RelativeToolTip": "petrol\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-20T12:53:00.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "petrol\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "petrol\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T17:27:20.953Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 108,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "petrol\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\Pages\\Index.cshtml",
+              "RelativeToolTip": "petrol\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T17:25:18.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "petrol\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\tilen\\source\\repos\\petrol\\petrol\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "petrol\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T18:07:47.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
